@@ -1,6 +1,6 @@
 {
   "version": "0.1.23",
   "notes": "Релиз SHARD: личные и групповые чаты, звонки и обмен файлами.",
-  "apkUrl": "https://shard-music-cdn.onrender.com/shard-latest.apk",
+  "apkUrl": "https://github.com/ShardChat/shard-music-cdn/releases/download/v0.1.23/shard-latest.apk",
   "exeUrl": "https://shard-music-cdn.onrender.com/shard-latest.exe"
 }
