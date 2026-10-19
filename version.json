@@ -1,7 +1,7 @@
 {
-  "version": "0.1.24",
-  "notes": "Исправлена проверка и загрузка обновлений через GitHub Releases.",
-  "apkUrl": "https://github.com/ShardChat/shard-music-cdn/releases/download/v0.1.24/shard-latest.apk",
+  "version": "0.1.25",
+  "notes": "Блокировка приложения PIN-кодом и защита содержимого уведомлений.",
+  "apkUrl": "https://github.com/ShardChat/shard-music-cdn/releases/download/v0.1.25/shard-latest.apk",
   "exeUrl": "https://shard-music-cdn.onrender.com/shard-latest.exe",
-  "apkSha256": "E3AA4651C0BC5667E0174B7D54934DA38265AC640C1238801E388C002DE5A8BA"
+  "apkSha256": "EE7B8827502D042E05397CAAAED2C2FAE834F7C84E4936A22F370F49322961CD"
 }
