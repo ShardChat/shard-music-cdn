@@ -1,7 +1,7 @@
 {
-  "version": "0.1.26",
-  "notes": "Фоновые звонки на Android, история пропущенных вызовов и приватные уведомления.",
-  "apkUrl": "https://github.com/ShardChat/shard-music-cdn/releases/download/v0.1.26/shard-latest.apk",
+  "version": "0.1.27",
+  "notes": "Исправлена прокрутка чатов и отображение фотографий после офлайна.",
+  "apkUrl": "https://github.com/ShardChat/shard-music-cdn/releases/download/v0.1.27/shard-latest.apk",
   "exeUrl": "https://shard-music-cdn.onrender.com/shard-latest.exe",
-  "apkSha256": "1A2BA888AD73EC730D725E0BC446BFB79FD943903F909C59E7A0BE5B505BC2DD"
+  "apkSha256": "40CE05793224C30BA004B92EE55F42F0545FD15282980081BE76D804678C091B"
 }
