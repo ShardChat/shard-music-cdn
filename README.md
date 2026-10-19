@@ -6,11 +6,11 @@
 - [Последние релизы Android](https://github.com/ShardChat/shard-music-cdn/releases)
 - [Исходный код приложения](https://github.com/ShardChat/shard-frontend-typescript)
 
-## Android 0.1.25
+## Android 0.1.26
 
-Блокировка приложения PIN-кодом, восстановление через 12 слов и защита содержимого уведомлений.
+Фоновые звонки на Android, история пропущенных вызовов и приватные уведомления.
 
-APK `shard-latest.apk` опубликован в [релизе v0.1.25](https://github.com/ShardChat/shard-music-cdn/releases/tag/v0.1.25). Архитектура — arm64; пакет — `com.shard.messenger.debug`, совместимый с предыдущими тестовыми сборками. Подпись APK сохранена для обновления без удаления данных.
+APK `shard-latest.apk` опубликован в [релизе v0.1.26](https://github.com/ShardChat/shard-music-cdn/releases/tag/v0.1.26). Архитектура — arm64; пакет — `com.shard.messenger.debug`, совместимый с предыдущими тестовыми сборками. Подпись APK сохранена для обновления без удаления данных.
 
 Ссылка на APK и SHA-256 указаны в `version.json`; контрольная сумма также доступна в `SHA256SUMS.txt`. Windows-установщик в этот Android-релиз не входит.
 

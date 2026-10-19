@@ -1,7 +1,7 @@
 {
-  "version": "0.1.25",
-  "notes": "Блокировка приложения PIN-кодом и защита содержимого уведомлений.",
-  "apkUrl": "https://github.com/ShardChat/shard-music-cdn/releases/download/v0.1.25/shard-latest.apk",
+  "version": "0.1.26",
+  "notes": "Фоновые звонки на Android, история пропущенных вызовов и приватные уведомления.",
+  "apkUrl": "https://github.com/ShardChat/shard-music-cdn/releases/download/v0.1.26/shard-latest.apk",
   "exeUrl": "https://shard-music-cdn.onrender.com/shard-latest.exe",
-  "apkSha256": "EE7B8827502D042E05397CAAAED2C2FAE834F7C84E4936A22F370F49322961CD"
+  "apkSha256": "1A2BA888AD73EC730D725E0BC446BFB79FD943903F909C59E7A0BE5B505BC2DD"
 }
