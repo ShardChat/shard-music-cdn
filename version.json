@@ -1,7 +1,7 @@
 {
-  "version": "0.1.29",
-  "notes": "Восстановлено сканирование QR-кода в настройках устройств и улучшена привязка нового устройства.",
-  "apkUrl": "https://github.com/ShardChat/shard-music-cdn/releases/download/v0.1.29/shard-latest.apk",
+  "version": "0.1.30",
+  "notes": "Бейджи ролей теперь отображаются в собственном профиле и настройках.",
+  "apkUrl": "https://github.com/ShardChat/shard-music-cdn/releases/download/v0.1.30/shard-latest.apk",
   "exeUrl": "https://shard-music-cdn.onrender.com/shard-latest.exe",
-  "apkSha256": "6D83E9661E8E87F120E1853EEE122FF4EF8462F3CA7FF990598839809AA483F6"
+  "apkSha256": "69F07FC55275586673CE3E47EDF3CAA9CB1C7DD2724612AAB75D867743B92A03"
 }

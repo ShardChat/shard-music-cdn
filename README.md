@@ -6,11 +6,11 @@
 - [Последние релизы Android](https://github.com/ShardChat/shard-music-cdn/releases)
 - [Исходный код приложения](https://github.com/ShardChat/shard-frontend-typescript)
 
-## Android 0.1.29
+## Android 0.1.30
 
-Восстановлено сканирование QR-кода в настройках устройств и улучшена привязка нового устройства.
+Бейджи ролей теперь отображаются в собственном профиле и настройках.
 
-APK `shard-latest.apk` опубликован в [релизе v0.1.29](https://github.com/ShardChat/shard-music-cdn/releases/tag/v0.1.29). Архитектура — arm64; пакет — `com.shard.messenger.debug`, совместимый с предыдущими тестовыми сборками. Подпись APK сохранена для обновления без удаления данных.
+APK `shard-latest.apk` опубликован в [релизе v0.1.30](https://github.com/ShardChat/shard-music-cdn/releases/tag/v0.1.30). Архитектура — arm64; пакет — `com.shard.messenger.debug`, совместимый с предыдущими тестовыми сборками. Подпись APK сохранена для обновления без удаления данных.
 
 Ссылка на APK и SHA-256 указаны в `version.json`; контрольная сумма также доступна в `SHA256SUMS.txt`. Windows-установщик в этот Android-релиз не входит.
 
