@@ -6,11 +6,11 @@
 - [Последние релизы Android](https://github.com/ShardChat/shard-music-cdn/releases)
 - [Исходный код приложения](https://github.com/ShardChat/shard-frontend-typescript)
 
-## Android 0.1.30
+## Android 0.1.31
 
-Бейджи ролей теперь отображаются в собственном профиле и настройках.
+Обновлена панель управления: удобный интерфейс для телефона, безопасные отступы и работа с клавиатурой.
 
-APK `shard-latest.apk` опубликован в [релизе v0.1.30](https://github.com/ShardChat/shard-music-cdn/releases/tag/v0.1.30). Архитектура — arm64; пакет — `com.shard.messenger.debug`, совместимый с предыдущими тестовыми сборками. Подпись APK сохранена для обновления без удаления данных.
+APK `shard-latest.apk` опубликован в [релизе v0.1.31](https://github.com/ShardChat/shard-music-cdn/releases/tag/v0.1.31). Архитектура — arm64; пакет — `com.shard.messenger.debug`, совместимый с предыдущими тестовыми сборками. Подпись APK сохранена для обновления без удаления данных.
 
 Ссылка на APK и SHA-256 указаны в `version.json`; контрольная сумма также доступна в `SHA256SUMS.txt`. Windows-установщик в этот Android-релиз не входит.
 

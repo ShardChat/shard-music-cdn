@@ -1,7 +1,7 @@
 {
-  "version": "0.1.30",
-  "notes": "Бейджи ролей теперь отображаются в собственном профиле и настройках.",
-  "apkUrl": "https://github.com/ShardChat/shard-music-cdn/releases/download/v0.1.30/shard-latest.apk",
+  "version": "0.1.31",
+  "notes": "Обновлена панель управления: удобный интерфейс для телефона, безопасные отступы и работа с клавиатурой.",
+  "apkUrl": "https://github.com/ShardChat/shard-music-cdn/releases/download/v0.1.31/shard-latest.apk",
   "exeUrl": "https://shard-music-cdn.onrender.com/shard-latest.exe",
-  "apkSha256": "69F07FC55275586673CE3E47EDF3CAA9CB1C7DD2724612AAB75D867743B92A03"
+  "apkSha256": "A92BE552D0660293599D0F632612D32895794E3DB3063C0B347EE6286503BFBA"
 }
