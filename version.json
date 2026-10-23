@@ -1,7 +1,7 @@
 {
-  "version": "0.1.28",
-  "notes": "Добавлены роли пользователей, панель управления и инструменты модерации.",
-  "apkUrl": "https://github.com/ShardChat/shard-music-cdn/releases/download/v0.1.28/shard-latest.apk",
+  "version": "0.1.29",
+  "notes": "Восстановлено сканирование QR-кода в настройках устройств и улучшена привязка нового устройства.",
+  "apkUrl": "https://github.com/ShardChat/shard-music-cdn/releases/download/v0.1.29/shard-latest.apk",
   "exeUrl": "https://shard-music-cdn.onrender.com/shard-latest.exe",
-  "apkSha256": "660A7F370D2DCFE1271A47A8005EFEDEDA8E3107ACD2EBAD10CDD741D469C093"
+  "apkSha256": "6D83E9661E8E87F120E1853EEE122FF4EF8462F3CA7FF990598839809AA483F6"
 }
