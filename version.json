@@ -1,7 +1,7 @@
 {
-  "version": "0.1.27",
-  "notes": "Исправлена прокрутка чатов и отображение фотографий после офлайна.",
-  "apkUrl": "https://github.com/ShardChat/shard-music-cdn/releases/download/v0.1.27/shard-latest.apk",
+  "version": "0.1.28",
+  "notes": "Добавлены роли пользователей, панель управления и инструменты модерации.",
+  "apkUrl": "https://github.com/ShardChat/shard-music-cdn/releases/download/v0.1.28/shard-latest.apk",
   "exeUrl": "https://shard-music-cdn.onrender.com/shard-latest.exe",
-  "apkSha256": "40CE05793224C30BA004B92EE55F42F0545FD15282980081BE76D804678C091B"
+  "apkSha256": "660A7F370D2DCFE1271A47A8005EFEDEDA8E3107ACD2EBAD10CDD741D469C093"
 }
